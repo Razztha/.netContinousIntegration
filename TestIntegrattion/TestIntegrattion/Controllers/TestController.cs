@@ -12,13 +12,13 @@ namespace TestIntegrattion.Controllers
         // GET: api/Test
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value12", "value22" };
         }
 
         // GET: api/Test/5
         public string Get(int id)
-        {
-            return "value";
+        { 
+            return "value1112";
         }
 
         // POST: api/Test

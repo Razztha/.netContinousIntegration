@@ -1,0 +1,1 @@
+[<img src="https://kingtop.visualstudio.com/_apis/public/build/definitions/0d9620a3-f6c8-4ace-8c04-c3150680669d/1/badge"/>](https://kingtop.visualstudio.com/TestIntegration/_build/index?definitionId=1)
